@@ -1,4 +1,4 @@
-﻿window.GroupingList = ["GRIDS", "VISUALIZATION", "LAYOUT", "EDITORS", "NAVIGATION","REPORTING", "NOTIFICATION", "BUSINESSINTELLIGENCE", "DATASCIENCE", "FILE FORMATS"];
+﻿window.GroupingList = ["FILE FORMATS"];
 
 //Controls List
 window.SampleControls = [
