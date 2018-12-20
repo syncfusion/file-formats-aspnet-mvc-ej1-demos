@@ -1,4 +1,4 @@
-# Syncfusion File Format ASP.NET MVC (EJ1) product samples
+# Syncfusion File Format ASP.NET MVC (EJ1) product samples 
 
 This repository contains the demos of Syncfusion file format ASP.NET MVC (EJ1) products. Syncfusion file format products contains .NET libraries to create, read, and edit [PDF](https://www.syncfusion.com/pdf-framework/net?utm_source=github&utm_medium=listing), [Excel](https://www.syncfusion.com/excel-framework/net?utm_source=github&utm_medium=listing), [Word](https://www.syncfusion.com/word-framework/net?utm_source=github&utm_medium=listing) and [PowerPoint](https://www.syncfusion.com/powerpoint-framework/net?utm_source=github&utm_medium=listing) files. Also, it contains UI controls such as [PDF Viewer](https://www.syncfusion.com/jquery/aspnet-mvc-ui-controls/pdf-viewer?utm_source=github&utm_medium=listing), and [Spreadsheet](https://www.syncfusion.com/jquery/aspnet-mvc-ui-controls/spreadsheet?utm_source=github&utm_medium=listing) to work with PDF, and Excel files interactively. This is the best place to check our libraries/controls to get more insight about the usage of APIs. You can browse the demos for all the controls and view the source code of each example.
 
@@ -31,7 +31,7 @@ All control documentation for the Syncfusion file format ASP.NET MVC libraries a
 
 ## <a name="license"></a>License ##
 
-Syncfusion has no liability for any damage or consequence that may arise by the use or viewing of the samples. The samples are for demonstrative purposes and if you choose to use or access the samples you agree to not hold Syncfusion liable, in any form, for any damage that is related to use, accessing or otherwise viewing the samples. By accessing, viewing, or otherwise seeing the samples you acknowledge and agree Syncfusion’s samples will not allow you to seek injunctive relief in any form for any claim related to the sample. If you do not agree to this, do not view, access, utilize or otherwise do anything with Syncfusion’s samples.
+Syncfusion has no liability for any damage or consequence that may arise by the use or viewing of the samples. The samples are for demonstrative purposes and if you choose to use or access the samples you agree to not hold Syncfusion liable, in any form, for any damage that is related to use, accessing or otherwise viewing the samples. By accessing, viewing, or otherwise seeing the samples you acknowledge and agree Syncfusionâ€™s samples will not allow you to seek injunctive relief in any form for any claim related to the sample. If you do not agree to this, do not view, access, utilize or otherwise do anything with Syncfusionâ€™s samples.
 
 ## <a name="using-the-samples"></a>Using the samples ##
 
