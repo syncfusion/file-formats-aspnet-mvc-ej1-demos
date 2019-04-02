@@ -95,7 +95,7 @@ If you clone the application, run **git clone** to clone the repository. Run the
   </tr>
   <tr>
   <td>
-    <a href="">Word library</a>
+    <a href="">Word library</a> 
   </td>
   <td>
     <a href="">Word converters</a>
