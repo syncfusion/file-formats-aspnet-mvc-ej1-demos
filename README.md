@@ -8,7 +8,7 @@ This section guides to use to Syncfusion file format ASP.NET MVC (EJ1) product s
 * [Documentation](#documentation)
 * [License](#license)
 * [Using the samples](#using-the-samples)
-* [How to run the samples](#how-to-run-the-samples)
+* [How to run the samples](#how-to-run-the-samples) 
 * [Controls catalog](#controls-catalog)
 * [Support and Feedback](#support-and-feedback)
 
