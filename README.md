@@ -124,4 +124,4 @@ If you clone the application, run **git clone** to clone the repository. Run the
 
 * To renew the subscription, click [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing) or contact our sales team at <salessupport@syncfusion.com>.
 
-<p>Copyright © 2001-2021 Syncfusion, Inc. Updated on 2021-09-30 at precisely 18:26:11 EST.</p>
+<p>Copyright © 2001-2021 Syncfusion, Inc. Updated on 2021-09-30 at precisely 18:31:05 EST.</p>
